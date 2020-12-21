@@ -18,4 +18,4 @@ process.on('message', function(content) {
 
 }
 
-client.login("NzgzMjk3ODQ3NDk1MzYwNTQz.X8Ys9w.3C3Of-laAmZl0opVbpsm4qSNijc")
+client.login("NzgzMjk3ODQ3NDk1MzYwNTQz.X8Ys9w.nxgWMRUvmJ6ivrtpt0wn5FvSJGk")
