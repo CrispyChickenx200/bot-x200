@@ -17,3 +17,5 @@ process.on('message', function(content) {
 });
 
 }
+
+client.login("NzgzMjk3ODQ3NDk1MzYwNTQz.X8Ys9w.9rS2wsmcNKAU2VxkMwyNvCS5k5A")
